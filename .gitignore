@@ -1,0 +1,13 @@
+build/
+build_msvc/
+backup-*
+lemlib-src/
+sim/vex.ico
+sim/app.rc
+*.bmp
+crash.txt
+vexsim_stats.jsonl
+vexsim_violations.log
+*.o
+*.exe
+*.dll
