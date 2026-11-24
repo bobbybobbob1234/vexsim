@@ -11,3 +11,4 @@ vexsim_violations.log
 *.o
 *.exe
 *.dll
+build_release/
